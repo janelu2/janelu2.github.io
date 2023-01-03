@@ -21,12 +21,13 @@
 title: JaneSpace
 email: jane@jane.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Testing! It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  A place for Jane's notes and miscellaneous.
+  Unlikely to provide much usability for any reader.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+linkedin_username: janelu2
 github_username:  janelu2
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Build settings
 theme: minima
